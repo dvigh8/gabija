@@ -1,1 +1,33 @@
-The goal of this app is to create a platform where users can manage their home and build extensions to add additionall functionality
+# Gabija
+
+A self-hosted family management platform — a private hub for running your household.
+
+## What Is This?
+
+Gabija is a single app where families can manage their daily life without relying on cloud services that collect their data. Think of it as a privacy-first alternative to apps like Cozi or FamilyWall, but one that runs on your own computer or server.
+
+## Planned Features
+
+**Household Management**
+- Create family accounts and invite members
+- Set up different permission levels (adults vs. kids)
+- Shared dashboard for the whole family
+
+**Family Finances**
+- Connect bank accounts for automatic transaction syncing
+- Track spending and set budgets by category
+- Split expenses between family members
+- Get alerts when approaching budget limits
+
+**Plugin System**
+- Extensible architecture for community-built add-ons
+- Example plugins: todo lists, meal planning, chore tracking
+- Plugins can work together (e.g., meal planning integrates with budgets)
+
+## Who Is This For?
+
+Tech-savvy families who care about privacy and like having control over their own data — the kind of people who might already self-host things like Plex or Home Assistant.
+
+## Vision
+
+Building a community around this project, eventually offering both a free self-hosted version and an optional paid hosted version for those who don't want to manage the technical side themselves
